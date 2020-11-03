@@ -9,7 +9,9 @@ body {
     width: 100%;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     align-items: center;
+    background: lightblue;
 }
 
 .anshul {
@@ -23,4 +25,5 @@ body {
     width: 500px;
     padding: 20px;
     box-shadow: 0 2px 20px rgb(140, 229, 241);
+    box-shadow: 0 2px 20px red;
 }
